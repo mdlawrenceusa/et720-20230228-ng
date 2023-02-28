@@ -1,4 +1,10 @@
 @charset "utf-8";
+
+.custom-background {
+  background-color: #17252A;
+}
+
+
 /* CSS Document */
 html{
 	background-color:#17252A;
